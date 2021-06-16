@@ -46,7 +46,7 @@ We attach great importance to licensing and the rights of all teams inside and o
 ## 📝Application process
 1. Fork this repository.
 
-2. In the new fork, create a copy of the application template (applications/application-template.md). If you're using the GitHub web interface, you need to create a new file and copy the contents of the template to it. Please DO NOT modify the template file. 
+2. In the new fork, create a copy of the application template (kcc-grants/Open Grant Proposa Content Template.md). If you're using the GitHub web interface, you need to create a new file and copy the contents of the template to it. Please DO NOT modify the template file. 
  
 3. Rename the new file as project_name.md.
 
