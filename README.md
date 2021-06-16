@@ -1,53 +1,55 @@
 # KCC-Grants
 ## 👏 Summary
 
-The KCS Foundation Open Grants Program focuses on technology grants of up to $30,000 for initial grants and $100,000 for follow-up grants,
+Sponsored by KCS Foundation, the Grant Program focuses on technological grants. The initial grant is up to $30,000 and the follow-up is up to $100,000.
 
-Which are tracked transparently on GitHub and disbursed in KCS or （USDT or DAI）. For larger grants,You can contact us for more information
+All the grants are in the form of cryptocurrency and the applications can be tracked on GitHub. For larger grants, please feel free to contact us for more information.
 
 
 
 
 ## 📌 Introduction
 
-As part of our commitment to promote the KCC, we provide a comprehensive grant program, focusing on the financing related to the KCC software development and research work.To complete KCC's mission of promoting the free flow of value in the world.For more information about KCC, please visit the "About" page on our website.
+As part of our commitment to promote KCC, we have issued the Grant Program focusing on the financing related to the research and development of KCC to promote the free flow of values around the world. For more information about KCC, please visit "About Us" on the site.
 
-The Open Funding Program attempts to achieve the above goals while:
+Grant Program attempts to achieve the above goals as well as being
 
-- Completely transparent
+-Transparent
 
-- Simple 
+-Simple
 
-- Effective
+-Effective
+
 
 ## 📝 Guidelines
+We welcome all projects that focus on powerful technology to apply for the grant, to use the technology to increase the values of the ecosystem.
 
-Anyone is welcome to apply for the grant. The scope of projects funded through our projects is wide, but our focus is on powerful technology projects that increase the value of the ecosystem.
+If your project meets the following requirements, it'll be more likely to get approved for the grant:
 
-Generally, your project will have a better chance of being accepted if the following conditions are met:
-
-It proposes a well-researched or tested concept, and ideally, you can show some previous work.
-
-- You can prove that the project will be maintained after the funding is completed through your clear commitment to technology, additional funding sources, or existing business model.
-- Your team has a wealth of relevant language and technical experience and/or a strong technical background. We ask you to provide GitHub profiles of all team members in the app and check the past activities and code quality in these profiles. Of course, you can also link to projects on other platforms.
-- Your application is rich in technical details and well-defined.
-- You can clearly show how your project can stand out from competitors, or how to implement technologies that do not yet exist in the ecosystem.
+1. The project proposes a concept that has been well-researched or tested. If possible, you can present some of the research work that has been done before.
+2. The team of the project can provide a clear commitment to the technology, additional funding source or the business mode to guarantee that the project can be well operated after receiving the grants.
+3. Convincing evidence that the project team has strong expertise and technical background. We will require the GitHub personal profiles of all the team members and check their activities and coding quality. Of course, you can also provide projects on other platforms.
+4. The project is rich in technical details and is well-defined.
+5. Cutting edges of the project to distinguish itself from others, or to present us how to develop technologies that do not exist in the ecosystem yet.
 
 In addition, the following requirements must also be met:
 
-- All code generated as part of the authorization must be open source, and it cannot rely on closed source software for all functions. We prefer apache2.0, but GPLv3, MIT or Unlicense are also acceptable.
-- We will not grant grants for projects that successfully sell tokens.
-- Finally, any projects involving gambling, illegal transactions, money laundering or general criminal activities are prohibited.
-- Involving copyright or other related project
-Finally, we take licensing and the right of all teams inside and outside the ecosystem to be recognized for their work very seriously. Using other people’s work without attribution or showing that this is not your own work as part of the delivery of a milestone will result in immediate termination. If you have any questions about how to comply with a specific license, please contact us before submitting, we are happy to help.
+1. Code generated as part of the authorization must be open source, and cannot rely on closed source software. We prefer apache2.0, but GPLv3, MIT and Unlicense are also acceptable.
+2. We will not grant projects that have successfully sold the tokens.
+3. Any projects involving gambling, illegal transactions, money laundering or criminal activities are prohibited.
+4. Any projects involved in copyright or -related are prohibited.
+
+We attach great importance to licensing and the rights of all teams inside and outside the ecosystem and we want all their work to be seriously recognized. For any project found using the research results of others without attribution or there's evidence that the work is not done by oneself, the project will be terminated immediately. If you have any questions about how to comply with a specific license, please contact us before application.
+
+
 
 ## 📝Application process
-1.Fork this repository.
+1. Fork this repository.
 
-2.In the newly created fork, create a copy of the application template (applications/application-template.md). If you're using the GitHub web interface, you will need to create a new file and copy the contents of the template inside the new one. Make sure you do not modify the template file directly.
+2. In the new fork, create a copy of the application template (applications/application-template.md). If you're using the GitHub web interface, you need to create a new file and copy the contents of the template to it. Please DO NOT modify the template file. 
+ 
+3. Rename the new file as project_name.md.
 
-3.Name the new file after your project: project_name.md.
+4. Fill out the template with the details of your project. The more information you provide, the faster the review of your application will be. If you're only applying for a smaller grant concerning UI work, you don't need to provide as much details.
 
-4.Fill out the template with the details of your project. The more information you provide, the faster the review.  Naturally, if you're only applying for a smaller grant that only consists of, say, UI work, you don't need to provide as much detail.
-
-5.Once you're done, create a pull request. The pull request should only contain one new file—the Markdown file you created from the template.
+5. Once the template is done, create a pull request. The pull request should contain only one new file, which is the Markdown file you created from the template.
