@@ -1,6 +1,6 @@
 ## 🧑‍💻Basic information
 
-         - Project Name  : Boltrswap / Boltr Native Token
+         - Project Name  : Boltr Decentralize Finance
 
          - Team Name   : Boltr.  
 
@@ -16,12 +16,14 @@
           of two KRC-20 tokens.
 
           - Project Details
-          Boltr is a decentralize finance project that before this focusing on the development inside the Binance Smart Chain until we
-          found o
+          List of Project : Boltr Token, Boltr DEX, Boltr Farming, Boltr NFT.
+          Website : www.boltrswap.com
+          Platform : Before this our team plan on development in Binance Smart Chain until we found out that KCC is still fresh and new.
+       
 
 ## 👥Team 
 
-         - Team members :
+         - Team members : 3 Members
 
          - Contact : ismailabinting@boltrswap.com
 
@@ -31,20 +33,26 @@
 
          - Team's experience
 
-         - Team Code Repos
+         - Team Code Repos :
+           https://github.com/boltrswap/Logo
+           https://github.com/boltrswap/boltr-farm
+           https://github.com/boltrswap/boltr-swap-SDK
+           https://github.com/boltrswap/boltr-frontend
+           https://github.com/boltrswap/boltr-toolkit
+           https://github.com/boltrswap/boltr-toolkit
 
 ## 🏆Development Roadmap
 
  Overview
  
 
-         - Milestone 1
+         - Milestone 1 : Token Creation, Boltr-Swap-SDK, UI Design.
 
-             - Estimated Duration:
+             - Estimated Duration:25 June - 25 August
 
-             - FTE: 
+             - FTE: 1.0 FTE 
 
-             - Costs:
+             - Costs: 15,000 USD
 
  ...
  
