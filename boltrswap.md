@@ -10,12 +10,14 @@
 
           - Overview
           Boltrswap is an automated liquidity protocol powered by a constant product formula and implemented in a 
-          system of non-upgradeable smart contracts on the Binance Smart Chain (plan). Our foundation known as Boltr with 3 members right now
+          system of non-upgradeable smart contracts on the Kucoin Community Chain (KCC). Our foundation known as Boltr with 3 members right now
           is on research on its development.It obviates the need for trusted intermediaries, prioritizing decentralization,
           censorship resistance, and security. Each Boltrswap smart contract, or pair, manages a liquidity pool made up of reserves
-          of two BEP20 tokens.
+          of two KRC-20 tokens.
 
           - Project Details
+          Boltr is a decentralize finance project that before this focusing on the development inside the Binance Smart Chain until we
+          found o
 
 ## 👥Team 
 
