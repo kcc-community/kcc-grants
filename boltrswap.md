@@ -1,8 +1,8 @@
 ## 🧑‍💻Basic information
 
-         - Project Name  : Boltr Decentralize Finance
+         - Project Name  : Boltr.
 
-         - Team Name   : Boltr.  
+         - Team Name   : Boltr Foundation
 
          - Payment Address : KCC CHAIN - 0x6348d12A323C5c8876081957bF6b81a932e41CD0
 
@@ -18,12 +18,12 @@
           - Project Details
           List of Project : Boltr Token, Boltr DEX, Boltr Farming, Boltr NFT.
           Website : www.boltrswap.com
-          Platform : Before this our team plan on development in Binance Smart Chain until we found out that KCC is still fresh and new.
+          Platform : Before this our team plan on a development in Binance Smart Chain until we found out that KCC is still fresh and new.
        
 
 ## 👥Team 
 
-         - Team members : 3 Members
+         - Team members : 4 Members
 
          - Contact : ismailabinting@boltrswap.com
 
@@ -32,6 +32,9 @@
          - Team Profiles
 
          - Team's experience
+           Our team is divided into two category expertise which is technical and marketing. We have been involve with a lot of blockchain
+           and cryptocurrency project. Before we explore the world of decentralize finance, we are a main developer for creating a centralize
+           exchange using Peatio Open-Source coding on Ruby on Rails for 2 years and half.
 
          - Team Code Repos :
            https://github.com/boltrswap/Logo
@@ -52,7 +55,7 @@
 
              - FTE: 1.0 FTE 
 
-             - Costs: 15,000 USD
+             - Costs: 9,500 USD
 
  ...
  
