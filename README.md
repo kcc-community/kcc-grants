@@ -1,7 +1,7 @@
 # KCC-Grants
 ## 👏 Summary
 
-Sponsored by KCS Foundation, the Grant Program focuses on technological grants. The initial grant is up to $30,000 and the follow-up is up to $100,000.
+Sponsored by KCS Foundation, the Grant Program focuses on technological grants. For each project, the highest grant can be $500,000 worth of KCS.
 
 All the grants are in the form of cryptocurrency and the applications can be tracked on GitHub. For larger grants, please feel free to contact us for more information.
 
