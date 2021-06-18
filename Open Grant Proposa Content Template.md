@@ -1,20 +1,21 @@
 ## 🧑‍💻Basic information
 
-         - Project Name  
+         - Project Name  farmkswap
 
-         - Team Name     
+         - Team Name     farmk
 
-         - Payment Address
-
+         - Payment Address 
+0xe088d1Aaa21de55F40012aDECAFfFD07626732Db
 ## 🎯Project Overview
 
-          - Overview
+          - Overview - farmkswap based on blockchain system and amm dex.
 
-          - Project Details
+          - Project Details  farmkswap based on kcc blockchain system and work on Amm dex like uniswap 
+That provides farming feature on pool system and work on blockchain . Stake. System in build on this defi amm dex.
 
 ## 👥Team 
 
-         - Team members
+         - Team members 
 
          - Contact
 
@@ -31,17 +32,17 @@
  Overview
  
 
-         - Milestone 1
+         - Milestone 1 - Nft bank 
 
-             - Estimated Duration:
+             - Estimated Duration: 2month
 
              - FTE: 
 
-             - Costs:
+             - Costs: 15000,$
 
  ...
  
-          - Milestone 2
+          - Milestone 2 
 
               - Estimated Duration:
 
