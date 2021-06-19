@@ -51,7 +51,7 @@
 
          - Milestone 1 : Token Creation, Boltr-Swap-SDK, UI Design.
 
-             - Estimated Duration:25 June - 25 August
+             - Estimated Duration:25 June - 30 July
 
              - FTE: 1.0 FTE 
 
@@ -59,27 +59,31 @@
 
  ...
  
-          - Milestone 2
+          - Milestone 2 : Platform Upgrades - boltrtoolkit, boltrfrontend, boltrfarmingpool
 
-              - Estimated Duration:
+              - Estimated Duration: 29 July - 31 August
 
-              - FTE: 
+              - FTE: 1.0 FTE
 
-              - Costs:
+              - Costs: 12,000 USD 
 ...
 
-        - Milestone X..
+        - Milestone X : Product Launch (Liquidity Pool on Boltr DEX, Centralize Exchange Listing, Marketing, Summit)
 
-              -  Estimated Duration:
+              -  Estimated Duration: 31 August - 1 October
 
-              - FTE: 
+              - FTE: 1.0 FTE
 
-              - Costs:
+              - Costs: 40,000 USD
 
 ...
 
 ## 📡Future Plans
-      Type something about your future plan
+      - Be the main DEX Protocol in KuCoin Community Chain
+      - Bridge KRC20 to BEP20 through BOLTR BRIDGE
+      - Employ Ambassador for El Savador
+      - Listed in Well-Known Exchange (i.e KuCoin, Ascendex, Hotbit)
+      -
       
 
 ## 🙋Additional Information ➕
