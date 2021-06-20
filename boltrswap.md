@@ -28,8 +28,15 @@
          - Contact : ismailabinting@boltrswap.com
 
          - Legal Structure
+           Partnership & Non-Profit Organisation (Surface Foundation & NH Smart Solution)
 
          - Team Profiles
+           Surface Foundation
+           A non-profit organisation who in charge of marketing plan and brand awareness.
+           
+           NH Smart Solution
+           A sole proprietor company who in charge of Boltr development platform.
+         
 
          - Team's experience
            Our team is divided into two category expertise which is technical and marketing. We have been involve with a lot of blockchain
