@@ -40,7 +40,7 @@
             Provide a way to decode transaction input data and transaction logs using pre-configured contracts ABIs.
             Create a way for people to verify contracts by providing the contract source code and decode transaction information using those contracts ABIs.
             
-            - Estimated Duration: 2 months
+            - Estimated Duration: 3 months
 
             - Costs: 50.000$
 ...
