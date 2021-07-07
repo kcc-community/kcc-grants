@@ -1,30 +1,31 @@
 ## 🧑‍💻Basic information
 
-         - Project Name  
+         - Project Name: Combo
 
-         - Team Name     
+         - Team Name: Combo Team
 
-         - Payment Address
+         - Payment Address: 0x7c81542ed859a2061538fee22b6544a235b9557d
+
 
 ## 🎯Project Overview
 
-          - Overview
+          - Overview: Transfer any token between any blockchain
 
-          - Project Details
+          - Project Details: Combo develops cross-chain bridge (between KCC, ETH and BSC). Pancakeswap or Uniswap allows users to place a limited price order.  By implementing the de-link protocol, we will provide users with the ability to place orders/cancel transactions on each DEX without Gas fee. Once there is an arbitrage opportunity bewteen the DEX on different public chain, the transactions will appear profitably and users will be able to execute the transaction and make a profit, which is enough to cover the Gas fee.
 
 ## 👥Team 
 
-         - Team members
+         - Team members: Sanyuk Stanislav Viktorovich, Mikhail Kondratev, Anton Khokhlov
 
-         - Contact
+         - Contact: DefiCombo20@gmail.com
 
-         - Legal Structure
+         - Legal Structure： —
 
-         - Team Profiles
+         - Team Profiles: - 
 
-         - Team's experience
+         - Team's experience: Sanyuk's early focus on technology development, using Java, CSS, Linux and other development systems and languages for technology development has a wealth of experience. Kondratev has many years of technology development experience in the IT industry, and his intellectual curiosity, attention to detail, and persistence are crucial to the evolution of the ever-changing fintech landscape. Khokhlov specializes in LAN design, network security, and focuses on the study and research of cryptography.As the project technical leader, led the development of new encryption products.
 
-         - Team Code Repos
+         - Team Code Repos: -
 
 ## 🏆Development Roadmap
 
@@ -33,35 +34,15 @@
 
          - Milestone 1
 
-             - Estimated Duration:
+             - Estimated Duration: 8 weeks
 
-             - FTE: 
+             - FTE: -
 
-             - Costs:
+             - Costs: 5,000 KCS
 
- ...
- 
-          - Milestone 2
-
-              - Estimated Duration:
-
-              - FTE: 
-
-              - Costs:
-...
-
-        - Milestone X..
-
-              -  Estimated Duration:
-
-              - FTE: 
-
-              - Costs:
-
-...
 
 ## 📡Future Plans
-      Type something about your future plan
+     The next bull market became the most used cross-chain protocol on the KCC.
       
 
 ## 🙋Additional Information ➕
