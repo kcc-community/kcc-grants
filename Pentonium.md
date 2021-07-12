@@ -77,3 +77,5 @@ Ropsten ( Etherum )
 https://beta.pentonium.com/
 
 https://www.youtube.com/watch?v=tSQawbTDVZI
+
+PitchDeck: https://drive.google.com/file/d/1GFNH-1yQwATqa4tSJ9FHjMVsyKJeqEIk/view?usp=sharing
