@@ -22,6 +22,7 @@
 
          - Team Profiles: 
               https://github.com/bornbig
+
               https://github.com/BhagatYedla
 
          - Team's experience:
@@ -72,5 +73,7 @@
 We started working on the product side (MVP) last December, which we deployed this March along with the smart contracts. We are now working towards the completion of the core contracts for the main product of which 70% is done, and would like to go for auditing by this month. We partnered with Hypersign recently to profile our users.
 
 Ropsten ( Etherum )
+
 https://beta.pentonium.com/
+
 https://www.youtube.com/watch?v=tSQawbTDVZI
