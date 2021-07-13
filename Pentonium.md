@@ -4,7 +4,7 @@
 
          - Team Name:    Pentonium
 
-         - Payment Address 
+         - Payment Address: 0x8b5D9502938FDCA4a56047cb4D42314550e9B8E2 
 
 ## 🎯Project Overview
 
