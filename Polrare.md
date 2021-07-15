@@ -4,7 +4,7 @@
 
          - Team Name   : Polrare
 
-         - Payment Address: KCC CHAIN -
+         - Payment Address: KCC CHAIN  - 0x50674801e0c4319a92b6b2108C94bB435d282ACa
 
 ## 🎯Project Overview
 
@@ -44,7 +44,7 @@ Overview
 
          - Milestone 1 : Token Creation, UI Design, Marketplace (Auction, Bid, Sell), VR Museum
 
-             - Estimated Duration: 20 July - 20 September, 2020
+             - Estimated Duration: 20 July - 20 September, 2021
 
              - FTE: 1.0 FTE
 
@@ -54,7 +54,7 @@ Overview
 
           - Milestone 2: Marketplace Upgrades, VR Museum Launch, 
 
-              - Estimated Duration: 20 September - 31 Deccember, 2020
+              - Estimated Duration: 20 September - 31 Deccember, 2021
 
               - FTE: 1.0 FTE
 
@@ -75,7 +75,7 @@ Overview
 ## 📡Future Plans
 
 - Be the main DEX Protocol in KuCoin Community Chain
-- Bridge KRC20 to BEP20, DOT, AD through POLRARE BRIDGE
+- Bridge KRC20 to BEP20, DOT, ADA through POLRARE BRIDGE
 - Listed in Well-Known Exchange (i.e KuCoin, Gate.io, Hotbit, Bitmart)
 
 ## 🙋Additional Information ➕
@@ -84,8 +84,7 @@ Overview
 
       Possible additional information to include:
 
-- In the first stage of our development, we are plan to develop Polrare in Ethereum but changing plan
-  whenever KCC was launch right in time.
+- We initially planned to develop Polrare in Ethereum but now we decide to change plan when KCC was launch right in time.
 - We are in plan to list our native token in KuCoin in order for fulfill our market segmentation of KCC ecosystem with
   KuCoin traders in order to increase brand awareness.
-- We want to collaborate with KuCoin team to organise a Blockchain Summit in South East Asia (Viet Nam, Thailand, Malaysia, Singapore) after the pandemic crysis ended.
+- We want to collaborate with KuCoin team to organise a Blockchain Summit in South East Asia (Viet Nam, Thailand, Malaysia, Singapore) after the pandemic crisis ended.
