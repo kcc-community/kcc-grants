@@ -52,7 +52,7 @@ Overview
 
 ...
 
-          - Milestone 2: Marketplace Upgrades, VR Museum Launch
+          - Milestone 2: Marketplace Upgrades, VR Museum Launch, 
 
               - Estimated Duration: 20 September - 31 Deccember
 
@@ -62,28 +62,27 @@ Overview
 
 ...
 
-        - Milestone X..
+        - Milestone X: Project Upgrades, Brigde Lauch, Builder Lauch
 
-              - Estimated Duration:
+              - Estimated Duration: 31, December 2021 - 30 Jun, 2022
 
-              - FTE:
+              - FTE: 1.0 FTE
 
-              - Costs:
+              - Costs: 120,000 USDT
 
 ...
 
 ## 📡Future Plans
 
 - Be the main DEX Protocol in KuCoin Community Chain
-- P
+- Bridge KRC20 to BEP20, DOT, AD through POLRARE BRIDGE
 - Listed in Well-Known Exchange (i.e KuCoin, Gate.io, Hotbit, Bitmart)
-- Submitting research paper about Decentralize Finance in KCC to Malaysian SEC.
 
 ## 🙋Additional Information ➕
 
       Any additional information that you think is relevant to this application that hasn't already been included.
 
-       Possible additional information to include:
+      Possible additional information to include:
 
 - In the first stage of our development, we are plan to develop Polrare in Ethereum but changing plan
   whenever KCC was launch right in time.
