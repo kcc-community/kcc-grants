@@ -12,9 +12,9 @@
           Polrare is a platform which provides all the necessary features and services to create, explore and monetize NFTs in the virtual world
 
           - Project Details
-          List of Project : Polrare Token, Polrare Marketplace (Auction, Rent, Buy, Sell), Polrare  Musuem, Polrare Builder, Polrare Game Survival.
-      Website : www.polrare.co
-      Platform : Before this our team plan on a development in Ethereum until we found out that KCC is still fresh and new.
+          List of Project : Polrare Token, Polrare Marketplace (Auction, Rent, Buy, Sell), VR  Musuem, Builder, Game Survival.
+          - Website : www.polrare.co
+          - Platform : Before this our team plan on a development in Ethereum until we found out that KCC is still fresh and new.
 
 ## 👥Team
 
@@ -28,13 +28,13 @@
          - Team Profiles
 
             Icetea Labs
-             partnership who in charge of marketing plan and brand awareness.
+             Company accompany our project on the journey from building a strategic plan, raising funds, marketing, product development to implementation in real life
 
             NMB Technology & Solution
-            A sole proprietor company who in charge of Polrare development platform
+             A sole proprietor company who in charge of Polrare development platform
 
          - Team's experience
-         Our team is divided into two category expertise which is technical and marketing. We have been involve with a lot of blockchain, sass project and game 3D, AR/VR.
+            Our team is divided into two category expertise which is technical and marketing. We have been involve with a lot of blockchain, sass project and game 3D, AR/VR.
 
          - Team Code Repos
 
@@ -44,7 +44,7 @@ Overview
 
          - Milestone 1 : Token Creation, UI Design, Marketplace (Auction, Bid, Sell), VR Museum
 
-             - Estimated Duration: 20 July - 20 September
+             - Estimated Duration: 20 July - 20 September, 2020
 
              - FTE: 1.0 FTE
 
@@ -54,7 +54,7 @@ Overview
 
           - Milestone 2: Marketplace Upgrades, VR Museum Launch, 
 
-              - Estimated Duration: 20 September - 31 Deccember
+              - Estimated Duration: 20 September - 31 Deccember, 2020
 
               - FTE: 1.0 FTE
 
@@ -62,13 +62,13 @@ Overview
 
 ...
 
-        - Milestone X: Project Upgrades, Brigde Lauch, Builder Lauch
+        - Milestone X: Project Upgrades, Brigde Lauch, Builder Lauch,  Game Survival
 
               - Estimated Duration: 31, December 2021 - 30 Jun, 2022
 
               - FTE: 1.0 FTE
 
-              - Costs: 120,000 USDT
+              - Costs: 150,000 USDT
 
 ...
 
