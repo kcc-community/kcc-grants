@@ -20,7 +20,8 @@
 
          - Team members: 8 members ()
 
-         - Contact: steven.lee2806@gmail.com
+         - Contact: [steven.lee2806@gmail.com](steven.lee2806@gmail.com) 
+                  [https://polrare.co](https://polrare.co) 
 
          - Legal Structure
             Partnership & Organisation (Icetea Labs, NMB Technology & Solution)
@@ -32,13 +33,12 @@
 
             NMB Technology & Solution
              A sole proprietor company who in charge of Polrare development platform
-
+  
          - Team's experience
             Our team is divided into two category expertise which is technical and marketing. We have been involve with a lot of blockchain, sass project and game 3D, AR/VR.
 
          - Team Code Repos
-         https://github.com/Polrare/assets
-         https://github.com/Polrare/bridge
+         https://github.com/Polrare/builder
          https://github.com/Polrare/museum
          https://github.com/Polrare/marketplace
 
