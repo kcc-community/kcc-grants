@@ -19,11 +19,13 @@
 ## 👥Team
 
          - Team members: 8 members
-         
 
-         - Contact: [steven.lee2806@gmail.com](steven.lee2806@gmail.com) 
-                  [https://polrare.co](https://polrare.co) 
 
+         - Contact: 
+         - **Contact Name:** Steven Lee
+         - **Contact Email:** steven.lee2806@gmail.com
+         - https://polrare.co
+ 
          - Legal Structure
             Partnership & Organisation (Icetea Labs, NMB Technology & Solution)
 
