@@ -18,7 +18,8 @@
 
 ## 👥Team
 
-         - Team members: 8 members ()
+         - Team members: 8 members
+         
 
          - Contact: [steven.lee2806@gmail.com](steven.lee2806@gmail.com) 
                   [https://polrare.co](https://polrare.co) 
