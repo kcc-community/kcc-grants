@@ -111,7 +111,7 @@ Overview
 
   
 
-- Costs: 35,000 USDT
+- Costs: 30,000 USDT
 
   
 
@@ -151,7 +151,7 @@ Overview
 
   
 
-- Costs: 150,000 USDT
+- Costs: 100,000 USDT
 
   
 
