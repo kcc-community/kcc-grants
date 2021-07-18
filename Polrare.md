@@ -99,7 +99,7 @@ Overview
 
   
 
-- Milestone 1 : Token Creation, UI Design, Marketplace (Auction, Bid, Sell), VR Museum
+- Milestone 1 : Token Creation, UI Design, Marketplace (Auction, Bid, Sell)
 
   
 
@@ -139,7 +139,7 @@ Overview
 
   
 
-- Milestone X: Project Upgrades, Brigde Lauch, Builder Lauch, Game Survival
+- Milestone X: Project Upgrades, Brigde Lauch, Builder Lauch
 
   
 
