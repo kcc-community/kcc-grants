@@ -77,7 +77,7 @@ Partnership & Organisation (Icetea Labs, NMB Technology & Solution)
 
 - Team's experience
 
-We are Polrare a Blockchain startup company  from Viet Nam, our business specialises in two expertise: technical and marketing. We have been involved with a lot of blockchain, SaaS project and game 3D, AR/VR.
+We are Polrare a Blockchain startup company from Viet Nam, our business specialises in two expertise: technical and marketing. We have been involved with a lot of blockchain, SaaS project and game 3D, AR/VR.
 
   
 
