@@ -18,7 +18,7 @@
 
          - Contact: support@ksfswap.finance
 
-         - Legal Structure: Partnership & Non-Profit organisation between NH Smart Solution and It's same like pancakes Foundation.
+         - Legal Structure: It's same like pancakes Foundation.
 
          - Team Profiles: Dev github username: @KsFSwap @rs-finance and @koen84 Note: In the future we can hire Dev to give new products to KSF and KCC community members, everyone can contribute to our project.
 
