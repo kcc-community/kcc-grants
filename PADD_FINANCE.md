@@ -1,35 +1,42 @@
-- Project Name : Padd Finance 
+## 🧑‍💻Basic information
 
-     - Team Name :   Pad
+         - Padd Finance   
 
-     - Payment Address: 0xCBbf39A30F08D12b473220BA3973505Df0154E06
-- Overview : Padd Finance is the next generation community launchpad ecosystem for Kucoin Community Chain Projects. Padd Finance’s mission is to contribute impactfully to the growth of Kucoin Community Chain’s ecosystem by sourcing out, incubating and being a Launch platform for kucoin chain community projects. 
+         - Pad     
 
-- Project Details : Padd Finance has a robust Launchpad ecosystem which comprises of the following: 
-Padd Launchpad(PLP): The next generation Kucoin community chain platform which enables leverages on its unique Point Allocation system(PAS) to ensure that every user who indicated interest in investing in a listed project pre-sale or private round gets an allocation depending on the amount of $Pad token staked and the duration of the staking. This ensures that an inclusion is achieved amongst our community members. Only well vetted or incubated projects with high prospects will be accepted into our platform. Community members have the opportunity to nominate and vote on a project before it is listed. 
-Padd Swap: Project that went through our community launchpad will also be giving access to provide liquidity on our swap platform. This will enable the community members to trade the token against different token pairs.
-Padd Labs: Incubating projects is at the heart of our ecosystem. Padd labs will breed and incubate Kucoin Community Chain Projects and help them scale through the ecosystem and global. We cannot accomplish our mission of growing the kucoin’s ecosystem without the Padd Labs.
-Official Token Name: $PAD
-Token Supply: 300,000,000(FIXED). 
-After 1 year,5 percent of the revenue generated monthly will be used to burn the token.
+         - 0xCBbf39A30F08D12b473220BA3973505Df0154E06
 
-Business Model
-Padd Finance will be operating a different proven revenue generation model across its ecosystem.
-Padd Launchpad(PLB): The PLB will adopt a commission based model. Projects listed on our platform will be charged 3-5% of the total fee raised. 
-Padd Swap: A minute transaction fee will be charged when transactions are carried out on our platform.
-Pad Labs: Projects who pass through our Labs will be onboarded into our launchpad for the community to back. We will also invest in their private/seed round.
-- Team members
+## 🎯Project Overview
 
-     - Contact: 
-	CEO: Alexjaypee@padd.finance
-	Company Partnership: proposal@padd.finance
+          - Padd Finance is the next generation community launchpad ecosystem for Kucoin Community Chain Projects. Padd Finance’s mission is to contribute impactfully to the growth of Kucoin Community Chain’s ecosystem by sourcing out, incubating and being a Launch platform for kucoin chain community projects.
 
-     - Legal Structure
-	Company Name: PADD Technology
-	Company Type: Not registered at the moment. Our intention is to register in Dubai because of their favourable crypto regulations and laws.
+Project Details : Padd Finance has a robust Launchpad ecosystem which comprises of the following:
+		  
+		 Padd Launchpad(PLP): The next generation Kucoin community chain platform which enables leverages on its unique Point Allocation system(PAS) to ensure that every user who indicated interest in investing in a listed project pre-sale or private round gets an allocation depending on the amount of $Pad token staked and the duration of the staking. This ensures that an inclusion is achieved amongst our community members. Only well vetted or incubated projects with high prospects will be accepted into our platform. Community members have the opportunity to nominate and vote on a project before it is listed.
+		 Padd Finance is the next generation community launchpad ecosystem for Kucoin Community Chain Projects. Padd Finance’s mission is to contribute impactfully to the growth of Kucoin Community Chain’s ecosystem by sourcing out, incubating and being a Launch platform for kucoin chain community projects.
+		   Padd Swap: Project that went through our community launchpad will also be giving access to provide liquidity on our swap platform. This will enable the community members to trade the token against different token pairs.
+		   Padd Labs: Incubating projects is at the heart of our ecosystem. Padd labs will breed and incubate Kucoin Community Chain Projects and help them scale through the ecosystem and global. We cannot accomplish our mission of growing the kucoin’s ecosystem without the Padd Labs.
+		  Official Token Name: $PAD
+		 Token Supply: 300,000,000(FIXED). 
+		 After 1 year,5 percent of the revenue generated monthly will be used to burn the token.
+		 Business Model: Padd Finance will be operating a different proven revenue generation model across its ecosystem..
+		 Padd Launchpad(PLB): The PLB will adopt a commission based model. Projects listed on our platform will be charged 3-5% of the total fee raised.
+		 Padd Swap : A minute transaction fee will be charged when transactions are carried out on our platform.
+		 Pad Labs : Projects who pass through our Labs will be onboarded into our launchpad for the community to back. We will also invest in their private/seed round.
 
 
-    
+
+## 👥Team 
+
+         - Team members
+
+         - Contact
+		 		 CEO: Alexjaypee@padd.finance
+				 Company Partnership: proposal@padd.finance
+
+         - Legal Structure
+		 		 Company Name: PADD Technology
+				 Company Type: Not registered at the moment. Our intention is to     register in Dubai because of their favourable crypto regulations and laws.
 
 
  - Team Profiles
