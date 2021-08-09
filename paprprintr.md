@@ -5,8 +5,12 @@
 
          - Team Name     
       The paprprintr team
+      
          - Payment Address
       0xb5E8DD44D98C85733C711780F731f9bEC79aeA7f
+      
+         - UID
+      30917583
 
 ## 🎯Project Overview
 
