@@ -1,4 +1,8 @@
 # KCC-Grants
+
+## KUCOIN UID  : 64841064
+
+
 ## 👏 Summary
 
 Sponsored by KCS Foundation, the Grant Program focuses on technological grants. For each project, the highest grant can be $500,000 worth of KCS.
