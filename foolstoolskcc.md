@@ -9,6 +9,9 @@ Fornace / Fool's Tools Team
 ### Payment Address
 0xB89D79765C330BCD44A864C036d8a288041bB77d
 
+### KuCoin UID
+63740057
+
 ## 🎯Project Overview
 
 ### Overview:
