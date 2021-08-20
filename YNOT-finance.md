@@ -14,7 +14,7 @@
 
 ## 👥Team 
 
-         - Team members Ashutosh, VarLakshmi, Shubham
+         - Team members Ashutosh, Varalakshmi, Shubham
 
          - Contact shubham@yourtruce.com
 
