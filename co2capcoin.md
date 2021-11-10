@@ -14,6 +14,7 @@
           CO2C (CO2 Capture Coin) is a token (a cryptocurrency) that represents an amount of captured CO2.
 
           - Project Details
+          co2capcoin.com
 
  ### CO2 Capture Point
 
@@ -40,22 +41,18 @@
             100wires@gmail.com
 
          - Legal Structure
-            Non-Profit USA Corporation, operating in Mexico, USA, Canada
+            For-Profit USA Corporation
 
          - Team Profiles
             Daniel Ahern, programmer
 
-            Eduardo Burus, marketing; certified carbon capture expert
-
-            Jose Torrez, solar cell manufacturer and installation company
+            Ben Randall, marketing
 
 
          - Team's experience
             Daniel Ahern - 10+ years professional programming
 
-            Eduardo Burus: carbon capture certification, local currencies, marketing
-
-            Jose Torrez: owner of panelsolarmx.com; expert in IoT of solar panels
+            Ben Randall - specific marketing for different coins
 
          - Team Code Repos
 
