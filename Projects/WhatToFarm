@@ -1,10 +1,10 @@
-## :technologist:Basic information
+## 🧑‍💻 Basic information
 
 - Project Name: WhatToFarm.io
 - Team Name: WhatToFarm Team
 - Payment Address: 0x58BFE677A4bA2BB1F2559eEC9F232E1B47EbA281
 
-## :dart:Project Overview
+## 🎯 Project Overview
 
 - Overview:
 **Node Infrastructure for KCC business:**
@@ -22,7 +22,7 @@
 We scan all smart contracts directly from blockchain, quickly parse them into an array of data on the backend and display them in a user-friendly interface. We've created supercool technology that processes information from more than 500k smart contracts in real-time, and all new blockchains and contracts are added to the database automatically. We have our own data source, so we analyze prices and liquidity, and build charts quickly and accurately. We’re all about getting our users direct access to liquidity data from all blockchains and DeFi pools in real-time.
 
 
-## :busts_in_silhouette:Team
+## 👥Team
 
 - Team members
       Administration team: CEO, Product Dir, 2 project manager, marketing manager.
@@ -47,7 +47,7 @@ We scan all smart contracts directly from blockchain, quickly parse them into an
 - Team Code Repos
       We have created 90 open-source repositories and 251 private repositories with software for the blockchain market. The open-source repositories have over 1000 stars on the githab.
  
-## :trophy:Development Roadmap
+## 🏆Development Roadmap
 
 - Overview
 Our main goal is the rapid development and growth of the KCC blockchain ecosystem. To solve this problem, we first need to create a comfortable experience for users and developers. Users need the simplest information - price charts, information about tokens, useful utilities. For developers we need good interfaces for working with nodes and blockchain.
