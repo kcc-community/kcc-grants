@@ -6,6 +6,8 @@
 
          - Payment Address: 0x863d68A6C3fb76CaB75CB37EED83648Ff780961A  
 
+         - KuCoin UID：83395554  
+
 ## 🎯Project Overview
 
           - Overview: Aldabra Finance is a new stablecoin AMM algorithm (based on formula x + y = K) that allows users to efficiently swap stablecoins without any slippage and price impact. Users can deposit stablecoins into the vault to receive interest and fee share as a stablecoin.  
