@@ -1,8 +1,8 @@
 ## 🧑‍💻Basic information
 
-         - Project Name  
+         - Project Name  Natdanai
 MFair
-         - Team Name     
+         - Team Name   
 MFair
 
 ## 🎯Project Overview
